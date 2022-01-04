@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "51fe1301b3864a5d1895c277e604fabb17a8e7024d115c25b236f4c1eefaf998"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "huxley": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}
